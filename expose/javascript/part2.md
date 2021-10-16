@@ -19,8 +19,14 @@
    An error occured because i is a 'let' variable declared during the for-loop creation, so it can only be accessed within that scope.
 10. Line 12 will print '3' because 'length' is a const variable, meaning it cannot be reassigned and must be accessed within the same scope as it was declared in, which it is.
 11. The function will still return an array containing [50, 100, 150] because even though 'discounted' is a const, it's being filled rather than reassigned. The loop simply filled the existing empty array, it is not being assigned to something new.
-12. A. student.name; </b>
-    B. student['Grad Year'] </b>
-    C. student.greeting() </b>
-    D. student['Favorite Teacher'].name </b>
-    E. student.courseLoad[0] </b>
+12. A. student.name;
+    
+    B. student['Grad Year']
+
+    C. student.greeting()
+
+    D. student['Favorite Teacher'].name
+
+    E. student.courseLoad[0]
+    
+
