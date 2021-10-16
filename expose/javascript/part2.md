@@ -28,5 +28,13 @@
     D. student['Favorite Teacher'].name
 
     E. student.courseLoad[0]
-    
+13. A. 
+    B.
+    C.
+    D.
+    E.
+    F.
+    G.
+    H.
+
 
