@@ -8,8 +8,8 @@
 5. Error message:
    > "Uncaught TypeError: Assignment to constant variable."
 
-    There is an error because 'result' cannot be reinitialized since it is a 'const' variable.
+    There is an error because 'result' cannot be reassigned since it is a 'const' variable.
 6. Error message:
    > "Uncaught TypeError: Assignment to constant variable."
 
-    There is an error because 'result' cannot be reinitialized since it is a 'const' variable.
+    There is an error because 'result' cannot be reassigned since it is a 'const' variable.
